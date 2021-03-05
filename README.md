@@ -1,4 +1,4 @@
 # tugas3
-MI2B_15_FAIQ MAULANA
+MI 2A / ADINDA NURRUL IZZA
 ## Getting Started
 ![Gambar 1](ss/gambar1.JPG)
